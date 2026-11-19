@@ -1,0 +1,37 @@
+Lesson 1: Infrastructure as Code (IaC)
+
+
+
+[x] Lesson 2: Introduction to Terraform
+
+
+
+[x] Lesson 3: HCL (HashiCorp Configuration Language)
+
+
+
+[x] Lesson 4: Declarative vs Imperative
+
+
+
+[x] Lesson 5: Terraform Architecture
+
+
+
+[ ] Lesson 6: Terraform Installation and Setup
+
+
+
+[ ] Lesson 7: Terraform Providers and required_providers
+
+
+
+[ ] Lesson 8: AWS Authentication and Provider Configuration
+
+
+
+[ ] Lesson 9: Terraform Resources and Data Sources
+
+
+
+[ ] Lesson 10: Terraform Commands – init, fmt, validate, plan, apply, destroy
